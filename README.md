@@ -49,32 +49,32 @@ The project is organized as follows:
 |   |   |   |-- training.js
 |   |   |   |-- styles.css
 |
-|-- **pages**
-|   |-- **ProblemResolution**
-|   |   |-- index.js
-|   |   |-- styles.css
+|   |-- **pages**
+|   |   |-- **ProblemResolution**
+|   |   |   |-- index.js
+|   |   |   |-- styles.css
 |
-|   |-- **WorkloadReduction**
-|   |   |-- index.js
-|   |   |-- styles.css
+|   |   |-- **WorkloadReduction**
+|   |   |   |-- index.js
+|   |   |   |-- styles.css
 |
-|   |-- **PersonalizedExperience**
-|   |   |-- index.js
-|   |   |-- preferences.js
-|   |   |-- styles.css
+|   |   |-- **PersonalizedExperience**
+|   |   |   |-- index.js
+|   |   |   |-- preferences.js
+|   |   |   |-- styles.css
+|   |   |
+|   |-- **utils**
+|   |   |-- **api.js**
+|   |   |-- **constants.js**
+|   |   |-- **helpers.js**
 |
+|   |-- **styles**
+|   |   |-- **global.css**
+|   |   |-- **theme.css**
+|   
 |-- **public**
 |   |-- **images**
 |       |-- *various images related to chatbot*
-|
-|-- **utils**
-|   |-- **api.js**
-|   |-- **constants.js**
-|   |-- **helpers.js**
-|
-|-- **styles**
-|   |-- **global.css**
-|   |-- **theme.css**
 |
 |-- **README.md**
 |-- **.gitignore**
