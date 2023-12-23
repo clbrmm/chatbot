@@ -1,0 +1,24 @@
+/* File: src/components/MultichannelIntegration/styles.css */
+
+.multichannelIntegration {
+    /* Add your styles for the Multichannel Integration component here */
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+  }
+  
+  .multichannelIntegration h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .multichannelIntegration p {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  /* Add additional styles as needed */
+  

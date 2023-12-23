@@ -1,0 +1,49 @@
+/* File: src/components/ContextualResponses/styles.css */
+
+.contextualResponses {
+    /* Add your styles for the Contextual Responses component here */
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+  }
+  
+  .contextualResponses h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .inputContainer {
+    margin-top: 10px;
+  }
+  
+  .inputContainer label {
+    font-size: 1rem;
+    color: #555;
+    margin-right: 10px;
+  }
+  
+  .inputContainer input {
+    width: 200px;
+    padding: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .response {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  /* Add additional styles as needed */
+  

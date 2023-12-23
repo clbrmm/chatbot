@@ -1,0 +1,40 @@
+/* File: src/pages/styles/theme.css */
+
+/* Define theme-specific styles for the application */
+
+/* Color Palette */
+:root {
+    --primary-color: #007bff; /* Blue */
+    --secondary-color: #28a745; /* Green */
+    --accent-color: #ffc107; /* Yellow */
+    --text-color: #333; /* Dark Gray */
+    --background-color: #f8f8f8; /* Light Gray */
+  }
+  
+  /* Apply Theme Colors */
+  body {
+    color: var(--text-color);
+    background-color: var(--background-color);
+  }
+  
+  /* Header Styles */
+  h1, h2, h3 {
+    color: var(--primary-color);
+  }
+  
+  /* Button Styles */
+  button {
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker shade for hover effect */
+  }
+  
+  /* Add any other theme-specific styles as needed */
+  

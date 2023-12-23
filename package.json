@@ -1,0 +1,35 @@
+{
+    "name": "your-chatbot-project",
+    "version": "1.0.0",
+    "description": "A modern chatbot project using Next.js",
+    "main": "index.js",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "next": "^12.0.7"
+    },
+    "devDependencies": {
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "your-git-repository-url"
+    },
+    "keywords": [
+      "chatbot",
+      "nextjs",
+      "react",
+      "web development"
+    ],
+    "author": "Your Name",
+    "bugs": {
+      "url": "hhtps://your-bug-tracking-url"
+    },
+    "homepage": "your-project-homepage-url"
+  }
+  

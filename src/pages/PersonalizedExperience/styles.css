@@ -1,0 +1,24 @@
+/* File: src/pages/PersonalizedExperience/styles.css */
+
+.personalizedExperience {
+    /* Add your styles for the Personalized Experience page here */
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+  }
+  
+  .personalizedExperience h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .personalizedExperience p {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  /* Add additional styles as needed */
+  
