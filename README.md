@@ -7,6 +7,8 @@
 
 This repository contains the source code for a modern and practical chatbot developed using Next.js as the framework. The chatbot is designed to meet various objectives related to user-centered design, multichannel integration, contextual responses, continuous learning, problem resolution, workload reduction, and personalized user experiences.
 
+---
+
 ## Project Structure
 
 The project is organized as follows:
@@ -24,7 +26,8 @@ The project is organized as follows:
 - **styles:** Includes global and theme-related CSS files.
 
 
-´´´
+```
+
 /chatbot
 |-- **src**
 |   |-- **components**
@@ -78,10 +81,11 @@ The project is organized as follows:
 |-- **package.json**
 |-- **next.config.js**
 |-- **.env.local**
-´´´
+```
 
 
 
+---
 
 ## Getting Started
 
