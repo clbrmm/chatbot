@@ -1,7 +1,7 @@
 // File: src/pages/PersonalizedExperience/preferences.js
 
 import React from 'react';
-import styles from './styles.css';
+import styles from './styles.module.css';
 
 const PersonalizedExperiencePreferences = () => {
   return (

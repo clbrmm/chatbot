@@ -1,11 +1,11 @@
 // File: src/pages/PersonalizedExperience/index.js
 
 import React from 'react';
-import styles from './styles.css';
+import styles from './styles.module.css';
 
 const PersonalizedExperience = () => {
   return (
-    <div className={styles.personalizedExperience}>
+    <div className={styles.personalizedExperience}> 
       <h2>Personalized Experience</h2>
       <p>
         The practical execution involves incorporating personalization to ensure that the chatbot offers

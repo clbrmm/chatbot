@@ -1,7 +1,7 @@
 // File: src/pages/ProblemResolution/index.js
 
 import React from 'react';
-import styles from './styles.css';
+import styles from './styles.module.css';
 
 const ProblemResolution = () => {
   return (
