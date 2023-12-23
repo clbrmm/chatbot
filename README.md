@@ -24,8 +24,7 @@ The project is organized as follows:
 - **styles:** Includes global and theme-related CSS files.
 
 
-'''
-
+´´´
 /chatbot
 |-- **src**
 |   |-- **components**
@@ -79,7 +78,7 @@ The project is organized as follows:
 |-- **package.json**
 |-- **next.config.js**
 |-- **.env.local**
-'''
+´´´
 
 
 
