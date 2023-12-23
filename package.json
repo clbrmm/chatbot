@@ -1,7 +1,7 @@
 {
-    "name": "your-chatbot-project",
+    "name": "chatbot",
     "version": "1.0.0",
-    "description": "A modern chatbot project using Next.js",
+    "description": "A chatbot project using Next.js",
     "main": "index.js",
     "scripts": {
       "dev": "next dev",
@@ -18,7 +18,7 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "your-git-repository-url"
+      "url": "https://github.com/clbrmm/chatbot"
     },
     "keywords": [
       "chatbot",
@@ -26,10 +26,10 @@
       "react",
       "web development"
     ],
-    "author": "Your Name",
+    "author": "CLBRMM",
     "bugs": {
-      "url": "hhtps://your-bug-tracking-url"
+      "url": "https://github.com/clbrmm/chatbot"
     },
-    "homepage": "your-project-homepage-url"
+    "homepage": "https://github.com/clbrmm/chatbot"
   }
   
